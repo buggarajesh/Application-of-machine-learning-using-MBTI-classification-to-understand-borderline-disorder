@@ -1,5 +1,5 @@
 # Application-of-machine-learning-using-MBTI-classification-to-understand-borderline-disorder
-This repository aims to combine machine learning (ML) techniques with the Myers-Briggs Type Indicator (MBTI) to uncover patterns and personality types associated with Borderline Personality Disorder (BPD). By analyzing MBTI responses from individuals diagnosed with BPD.. 
+This repository aims to combine machine learning (ML) techniques with the Myers-Briggs Type Indicator (MBTI) to uncover patterns and personality types associated with Borderline Personality Disorder (BPD). By analyzing MBTI responses from individuals diagnosed with BPD.
 
 ## Overview
 This project combines machine learning (ML) techniques with the Myers-Briggs Type Indicator (MBTI) to uncover patterns and personality types associated with Borderline Personality Disorder (BPD). The MBTI categorizes individuals into 16 distinct personality types based on their traits and tendencies. By analyzing MBTI responses from individuals diagnosed with BPD, ML can identify personality traits that may serve as indicators of the disorder. This approach aims to enhance our understanding of BPD, improve diagnostic accuracy, and pave the way for personalized treatment strategies tailored to the unique challenges faced by individuals with BPD.
@@ -22,7 +22,7 @@ To get started with the project, clone the repository and install the required d
 > `bash`
 ``` 
 git clone https://github.com/buggarajesh/Application of machine learning using MBTI 
-classification to understand borderline disorder .git
+classification to understand borderline disorder.git
 cd personality-insights-bpd
 pip install -r requirements.txt
 ```
